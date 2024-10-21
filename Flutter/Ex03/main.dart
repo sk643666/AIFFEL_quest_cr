@@ -55,7 +55,7 @@ class _FirstPageState extends State<FirstPage> {
                 print("is_cat: $is_cat");
               },
               child: Image.network(
-                'https://cdn.pixabay.com/photo/2024/02/17/00/18/cat-8578562_1280.jpg', // 300x300 고양이 이미지
+                'https://cdn.pixabay.com/photo/2024/02/17/00/18/cat-8578562_1280.jpg',
                 width: 300,
                 height: 300,
               ),
