@@ -30,6 +30,8 @@
 ```
 올려주셨던 코드를 실행해 보았을 때, 다음과 같은 결과가 나왔는데요(사진참조).
 epoch 수를 더 높게 설정하여 실행해 보는 것도 좋을 것 같습니다.
-![image](https://github.com/user-attachments/assets/ad5e5af7-ac58-40ee-9e77-4932ba6fc2e5)
- 
 ```
+![image](https://github.com/user-attachments/assets/8d753628-0027-4bb1-b933-03750ad77169)
+
+ 
+
